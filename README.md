@@ -1,1 +1,1 @@
-## Lab tasks for general physics cours (First year of study)
+## Lab tasks for general physics cours (first year of study)
